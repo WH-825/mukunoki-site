@@ -322,6 +322,10 @@ nav {
   text-indent: 0;
 }
 
+#new #news_title {
+  font-size: 20px;
+}
+
 /*company.html*/
 .container_2 {
   margin: 10px;
@@ -518,9 +522,7 @@ input.size {
 .sa {
   text-decoration: underline #e99f86;
 }
-#news_title {
-  font-size: 20px;
-}
+
 /*PCの設定*/
 @media screen and (max-width: 1024px) {
   #header_top {
