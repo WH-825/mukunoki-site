@@ -518,6 +518,9 @@ input.size {
 .sa {
   text-decoration: underline #e99f86;
 }
+#ews_title {
+  font-size: 20px;
+}
 /*PCの設定*/
 @media screen and (max-width: 1024px) {
   #header_top {
